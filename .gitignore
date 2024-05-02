@@ -1980,3 +1980,9 @@ data/test_data/.gitignore
 data/test_data/cme_arrival_calc_test.hdf5
 data/test_data/HUXt_CR2080_streaklines_case.hdf5
 data/test_data/HUXt_CR2080_time_dependent_test_case.hdf5
+data/Richardson_Cane_Porcessed_ICME_list.csv
+data/forecast_evaluation/brier_scores_min_385.csv
+data/forecast_evaluation/brier_scores_min_460.csv
+data/forecast_evaluation/brier_scores_min_550.csv
+data/forecast_evaluation/roc_scores_min_7.csv
+data/forecast_evaluation/roc_scores_min_9.csv
