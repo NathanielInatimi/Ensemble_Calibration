@@ -24,8 +24,6 @@ import random
 
 def generate_catagorical_forecast(forecast, threshold):
     """
-    Computes the hit rate and false alarm rate of an input forecast series.
-
     Parameters:
     - forecast (numpy array): array containing forecast time series values
     - threshold (float): Wind speed threshold value of forecast (above which forecast is catagorised as a 'hit')
